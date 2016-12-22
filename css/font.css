@@ -1,0 +1,26 @@
+/* font-family: "pfagorasanspromedium"; */
+@font-face {
+	font-family: "pfamedium";
+	src: url("fonts/pfamedium.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "pfagorasansproreg"; */
+@font-face {
+	font-family: "pfareg";
+	src: url("fonts/pfareg.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "pfagorasansprothin"; */
+@font-face {
+	font-family: "pfathin";
+	src: url("fonts/pfathin.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+

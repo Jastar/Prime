@@ -1,0 +1,169 @@
+
+
+
+	html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+	a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+	small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+	fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+	article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup,
+	menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		vertical-align: baseline;
+	}
+	
+	body {
+		font-size: 14px;
+		line-height: 18px;
+		color: #808080;
+		font-family: "pfareg";
+	}
+
+
+
+	h1 {
+		font-size: 32px;
+		color: #bfbfbf;
+		font-family: "pfathin";
+	}
+
+	h2 {
+		font-size: 200%;
+		line-height: 22px;
+		color: #ff7200;
+		font-family: "pfamedium";
+	}
+
+	p {
+		margin: 25px 0px;
+		max-width: 100%;
+	}
+	
+	a {
+		color: #83c700;
+		border-bottom: 1px dotted;
+	}
+
+	a:hover, a:active, a:link {
+		text-decoration: none;
+	}
+
+	a:hover {
+		color: #ff7200;
+		border-bottom: none;
+	}
+
+	ul {
+		list-style: none;
+	}
+
+	ul#menu li:hover {
+		list-style-image: url("../images/listArrow.gif");
+	}
+	
+	ul#menu li {
+		margin-top: 25px;
+	}
+
+	ul#menu li:first-child {
+		margin-top: 0px;
+	}
+	
+	ul#menu li a {
+		font-size: 20px;
+		line-height: 40px;
+		overflow: hidden;
+	}
+
+
+
+
+
+
+
+
+
+/**************************************** HEADER ****************************************/
+	
+	header {
+		height: 600px;
+		background-image: url("../images/cityBG.jpg");
+		background-position: center bottom;
+		background-repeat: no-repeat;
+	}
+
+	header img#logo {
+		margin-top: 25px;
+	}
+
+	header h2 {
+		margin-top: 60px;
+	}
+
+	header h2 small, header h2 sup  {
+		font-size: 14px;
+		color: #c0c0c0;
+		line-height: 10px;
+	}
+
+
+/**************************************** SECTION ****************************************/
+
+	
+	button {
+		background-color: #fff;
+		border: none;
+		outline: none;
+	}
+
+	
+
+
+	div.special {
+		margin: 0 auto;
+		width: 57px;
+		height: 53px;
+		background: url("../images/sprite.gif") 0 0;
+		background-repeat: no-repeat;
+	}
+
+	a:hover div.special {
+		background-position: 0 -53px;
+	}
+
+	a:active div.special {
+		background-position: 0 -106px;
+	}
+
+
+
+	footer p {
+		padding: 75px 0px 50px 0px;
+		color: #bfbfbf;
+	}
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
